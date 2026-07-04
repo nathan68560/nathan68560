@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nathan68560
-- 👀 I’m interested in everything technology related aswell as scientifiques and spacials news
+- 👀 I like to try and play around with new technologies
+- 🤹‍♂️ A jack of all trades, master of none, but oftentimes better than a master of one
 
 <!---
 nathan68560/nathan68560 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
